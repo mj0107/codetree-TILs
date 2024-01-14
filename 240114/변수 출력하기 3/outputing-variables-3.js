@@ -1,1 +1,1 @@
-console.log([a, b, 'C'].join('->'));
+console.log([1, 2, 'C'].join('->'));
